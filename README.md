@@ -36,9 +36,6 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 ---
 
 ### Проекты:
-  - <a target="_blank" href="https://github.com/smgvasya/how-to-learn-plus">Образовательный проект "Как научиться учиться"</a>
-    <p> Одностраничный сайт с анимацией</p>
-    <p> Стек: HTML5, CCS3, Методология БЭМ (файловая структура), Flexbox, Позиционирование, Псевдоклассы, Фреймы</p>
   - <a target="_blank" href="https://github.com/smgvasya/mesto-project">Фронтенд Mesto. Mesto - социальная сеть на минималках</a>
     <p> Стек: JavaScript, HTML, CSS, БЭМ, ООП, REST API</p>
   - <a target="_blank" href="https://github.com/smgvasya/mesto-project-plus">Бэкенд Mesto. Каркас API Mesto. Mesto - социальная сеть на минималках</a>
@@ -149,3 +146,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 [![codewars](https://www.codewars.com/users/smgvasya/badges/large)](https://www.codewars.com/users/smgvasya)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smgvasya&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+ <!-- - <a target="_blank" href="https://github.com/smgvasya/how-to-learn-plus">Образовательный проект "Как научиться учиться"</a>
+    <p> Одностраничный сайт с анимацией</p>
+    <p> Стек: HTML5, CCS3, Методология БЭМ (файловая структура), Flexbox, Позиционирование, Псевдоклассы, Фреймы</p>-->
