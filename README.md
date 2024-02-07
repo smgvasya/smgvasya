@@ -2,7 +2,7 @@
 <h1 align="center">Hi! Добро пожаловать <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 </div>
-
+</br>
 <div>
   <img align="center"src="https://readme-typing-svg.herokuapp.com?font=Arial&duration=6000&pause=300&center=true&vCenter=true&random=false&width=400&color=8366FF&lines=Trust+me%2C+I'm+a+developer" alt="Typing      SVG" />
   <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmZ3YmVsMjJwMXoycWxnZnM2ZnZrZDhhZmJ2dHc4bWxxaGpxNDNqdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uB86ZyWQsnFSGYe2sA/giphy.gif"             
@@ -13,7 +13,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 ### О себе :
 Меня зовут Егорова Ксения, и я помогу разработать функциональную и юзабильную оболочку, для вашего сайта.</br>Открыта к любым side-проектам :smirk: </br>
-В данный момент пополняю свои знания в Яндекс Практикуме <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, по направлению Fullstack разработчик.
+ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> В данный момент пополняю свои знания в Яндекс Практикуме, по направлению Fullstack разработчик.
 
 ### Свяжитесь со мной:
 <a href="https://t.me/SMGVasya">
