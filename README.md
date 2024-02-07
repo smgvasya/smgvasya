@@ -21,8 +21,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
     src="https://camo.githubusercontent.com/61fd23b4a292ef12bb2cf329c872299705e0c52198522aeb49e0b76bbe6eefb2/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f74656c656772616d"
     alt="@SMGVasya"
     title="telegram"
-    width="40"
-    height="40"
+    width="4%"
   />
 </a>&nbsp;
 <a href="https://hh.ru/resume/c840af0bff0c6911650039ed1f30504777304f">
@@ -30,8 +29,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
     src="https://img.hhcdn.ru/employer-logo/4069248.png"
     alt="hh"
     title="резюме"
-    width="40"
-    height="40"
+    width="4%"
   />
 </a>
 
@@ -43,99 +41,85 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
     src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"
     title="HTML5"
     alt="HTML"
-    width="40"
-    height="40"
-  />&nbsp;
+    width="4%"
+    />&nbsp;
   <img
     src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"
     title="CSS3"
     alt="CSS"
-    width="40"
-    height="40"
+    width="4%"
   />&nbsp;
   <img
     src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"
     title="Sass"
     alt="Sass"
-    width="40"
-    height="40"
+    width="4%"
   />&nbsp;
   <img
     src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
     title="JavaScript"
     alt="JavaScript"
-    width="40"
-    height="40"
+    width="4%"
   />&nbsp;
   <img
     src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"
     title="React"
     alt="React"
-    width="40"
-    height="40"
+    width="4%"
   />&nbsp;
   <img
     src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"
     title="Redux"
     alt="Redux"
-    width="40"
-    height="40"
+    width="4%"
   />&nbsp;
   <img
     src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"
     title="Mongodb"
     alt="Mongodb"
-    width="40"
-    height="40"
+    width="4%"
   />&nbsp;
   <img
     src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original.svg"
     title="Cypress"
     alt="Cypress"
-    width="40"
-    height="40"
+    width="4%"
   />&nbsp;
   <img
     src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"
     title="Express"
     alt="Express"
-    width="40"
-    height="40"
+    width="4%"
   />&nbsp;
   <img
     src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"
     title="Git"
     alt="Git"
-    width="40"
-    height="40"
+    width="4%"
   />&nbsp;
   <img
     src="https://github.com/devicons/devicon/blob/master/icons/jiraalign/jiraalign-original.svg"
     title="Jira Atlassian"
     alt="Jira"
-    width="40"
-    height="40"
+    width="4%"
   />&nbsp;
   <img
     src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"
     title="Figma"
     alt="Figma"
-    width="40"
-    height="40"
+    width="4%"
   />&nbsp;
   <img
     src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"
     title="Illustrator"
     alt="Illustrator"
-    width="40"
-    height="40"
+    width="4%"
   />&nbsp;
   <img
     src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg"
     title="Photoshop"
     alt="Photoshop"
-    width="40"
-    height="40"
+    width="4%"
   />
   <!--<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;-->
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp; -->
