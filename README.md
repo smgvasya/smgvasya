@@ -35,6 +35,24 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 ---
 
+### Проекты:
+  - <a target="_blank" href="https://github.com/smgvasya/how-to-learn-plus">Образовательный проект "Как научиться учиться"</a>
+    <p> Одностраничный сайт с анимацией</p>
+    <p> Стек: HTML5, CCS3, Методология БЭМ (файловая структура), Flexbox, Позиционирование, Псевдоклассы, Фреймы</p>
+  - <a target="_blank" href="https://github.com/smgvasya/mesto-project">Фронтенд Mesto. Mesto - социальная сеть на минималках</a>
+    <p> Стек: JavaScript, HTML, CSS, БЭМ, ООП, REST API</p>
+  - <a target="_blank" href="https://github.com/smgvasya/mesto-project-plus">Бэкенд Mesto. Каркас API Mesto. Mesto - социальная сеть на минималках</a>
+    <p> Стек: TypeScript, ExpressJS, Mongodb, Mongoose, REST API</p>
+  - <a target="_blank" href="https://github.com/smgvasya/algososh">Визуализатор алгоритмов</a>
+    <p> Анимация и поэтапное отображение работы алгоритмов</p>
+    <p> Стек: TypeScript, React, Cypress, Jest</p>
+  - <a target="_blank" href="https://github.com/smgvasya/react-burgerr">Stellar burgers - многостраничный
+      сайт бургерной + личный кабинет</a>
+    <p>Stellar burgers сайт для заказа бургеров, которое позволяет пользователям создавать, заказывать и отслеживать статус заказа в режиме реального времени.</p>
+    <p> Стек: TypeScript, React, Drag-and-drop (react-dnd), Redux, ReactRouter, Websocket</p>
+
+--- 
+
 ### Мой стек :
 <div>
   <img
