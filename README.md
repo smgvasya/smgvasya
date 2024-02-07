@@ -145,7 +145,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 ---
 
-### :fire: My Stats :
+### :fire: Статистика :
 [![codewars](https://www.codewars.com/users/smgvasya/badges/large)](https://www.codewars.com/users/smgvasya)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smgvasya&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
