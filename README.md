@@ -43,7 +43,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
   - <a target="_blank" href="https://github.com/smgvasya/algososh">Визуализатор алгоритмов</a>
     <p> Анимация и поэтапное отображение работы алгоритмов</p>
     <p> Стек: TypeScript, React, Cypress, Jest</p>
-  - <a target="_blank" href="https://github.com/smgvasya/react-burgerr">Stellar burgers - многостраничный
+  - <a target="_blank" href="https://github.com/smgvasya/react-burger">Stellar burgers - многостраничный
       сайт бургерной + личный кабинет</a>
     <p>Stellar burgers сайт для заказа бургеров, которое позволяет пользователям создавать, заказывать и отслеживать статус заказа в режиме реального времени.</p>
     <p> Стек: TypeScript, React, Drag-and-drop (react-dnd), Redux, ReactRouter, Websocket</p>
